@@ -16,7 +16,7 @@ dependencies:
   google_maps_webservice: ^0.0.19
   google_api_headers: ^1.0.0
   permission_handler: ^7.1.0 
-  tuple: ^1.0.3
+  tuple: ^2.0.0 
   http: ^0.13.0
 
 dev_dependencies:
